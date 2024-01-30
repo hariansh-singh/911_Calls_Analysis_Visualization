@@ -4,7 +4,7 @@ This repository contains code and resources for analyzing and visualizing the 91
 
 ## Dataset
 
-The dataset used for this project can be found in this repository (911.csv)
+The dataset used for this project can be found in this repository (911.csv).
 It contains the following features:
 
 - Latitude: The latitude coordinate of the emergency call location.
