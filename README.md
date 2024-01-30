@@ -4,7 +4,8 @@ This repository contains code and resources for analyzing and visualizing the 91
 
 ## Dataset
 
-The dataset used for this project can be found at [link_to_dataset](link_to_dataset). It contains the following features:
+The dataset used for this project can be found in this repository (911.csv).
+It contains the following features:
 
 - Latitude: The latitude coordinate of the emergency call location.
 - Longitude: The longitude coordinate of the emergency call location.
@@ -18,11 +19,11 @@ The dataset used for this project can be found at [link_to_dataset](link_to_data
 
 ## Analysis
 
-The analysis code can be found in the [analysis](analysis) directory. It includes scripts for exploring the dataset, performing statistical analysis, and generating visualizations.
+The analysis code can be found in the 911_calls.ipynb file. It includes scripts for exploring the dataset, performing statistical analysis, and generating visualizations.
 
 ## Visualization
 
-The visualization code can be found in the [visualization](visualization) directory. It includes scripts for creating interactive maps, charts, and graphs to visualize the 911 dataset.
+The visualization code can be found in the 911_calls.ipynb file. It includes scripts for creating interactive maps, charts, and graphs to visualize the 911 dataset.
 
 ## Usage
 
